@@ -1,0 +1,6 @@
+Unit 4 | Assignment - Pandas, Pandas, Pandas
+Option 1: Heroes of Pymoli
+
+1. Most of Heroes of Pymoli's revenue is from male players, who make up the majority of the playerbase; however, on average, female players tend to spend more per purchase.
+2. In addition, most of Heroes of Pymoli's revenue is from players aged 20 to 24, who make up the majority of the playerbase; however, older players aged 35 to 39 tend to spend more per purchase and purchase more expensive items. Younger players aged 9 and under also tend to spend more per purchase than the majority of players aged 20 to 24.
+3. The popular items data frame lists "Pursuit, Cudgel of Necromancy" as the 5th most popular item, having been purchased 8 times, but other items have similar purchase counts. Moreover, due to the low price of "Pursuit, Cudgel of Necromancy," it has produced less revenue than other items of similar popularity.
