@@ -1,0 +1,6 @@
+Unit 5 | Assignment - The Power of Plots
+Option 1: Pyber
+
+1. Urban cities tend to have more rides than the other two city types, but on average, rural cities charge higher fares.
+2. Despite the higher fares in rural cities, most of Pyber's revenue is from urban cities, which correlates with the majority of Pyber rides being from urban cities as well.
+3. Urban cities also tend to have more drivers for any given city than the other two city types.
