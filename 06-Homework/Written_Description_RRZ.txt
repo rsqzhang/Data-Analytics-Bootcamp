@@ -1,0 +1,6 @@
+Unit 6 | Assignment - What's the Weather Like?
+
+1. Comparing temperature to latitude confirms that the temperatures increase as cities approach the equator; however, there are a few outliers that have higher or lower temperatures compared to cities closer to or further from the equator, respectively.
+2. There does not appear to be a significant correlation between humidity and latitude, although there does seem to be a very slight decrease in humidity near the equator.
+3. There does not appear to be a significant correlation between cloudiness and latitude.
+4. There does not appear to be a significant correlation between wind speed and latitude, but there does seem to be a cluster of particularly windy cities close to 60 degrees latitude.
